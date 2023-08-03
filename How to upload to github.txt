@@ -15,4 +15,4 @@ git add .
 
 git commit -m "write message here"
 
-git push -u -f origin master(or main)
+git push -u -f origin (branch name(here it is "main"))
