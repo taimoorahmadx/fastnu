@@ -1,0 +1,18 @@
+git init
+
+git add .
+
+git commit -m "Add existing project files to Git"
+
+(no need if remote already exists)git remote add origin 
+https://github.com/cameronmcnz/example-website.git
+
+git push -u -f origin master(or main)
+
+------------------------------------------------------
+
+git add .
+
+git commit -m "write message here"
+
+git push -u -f origin master(or main)
